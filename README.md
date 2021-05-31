@@ -1,0 +1,2 @@
+# EpicOnlineServicesTestConsole
+EpicOnlineServicesのコンソール版テスト（Formアプリケーションも作るかも）
